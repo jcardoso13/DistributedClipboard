@@ -11,11 +11,19 @@ Test apps that connect to these clipboards were created in folder ./testes (TEST
 To make an App that can connect to the Clipboard application, it must follow it's API. (clipboard_connect, clipboard_copy, clipboard_paste, clipboard_Wait and clipboard_close) described in library.c and clipboard.h
 
 To compile the tests and clipboard do:
+
 > make
 
 to run the clipboard do:
+
 > ./clipboard 
+
+
 in single mode (1st clipboard created)
+
+
 > ./clipboard -c "IP of other Clipboard" "Port"
+
+
 in connected mode 
 
