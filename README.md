@@ -2,7 +2,7 @@
 
 System Programming Project in C
 
- Destributed Clipboard.
+ Distributed Clipboard.
 
 Goal: To make a Clipboard application that connected over the internet to other clipboard applications in which all stayed synchronized. 10 Data regions without Maximum Data size or data defined. Can transfer whole mp4 files for example.
 
